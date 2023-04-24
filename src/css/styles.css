@@ -18,3 +18,12 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+/* Додані стилі */
+input {
+  background-color: yellow;
+}
+
+ul {
+  list-style: none;
+}
